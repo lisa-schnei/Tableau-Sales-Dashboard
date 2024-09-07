@@ -42,4 +42,4 @@ SQL in BigQuery, Tableau
 
 Tableau Dashboard
 
-! [sales dashboard preview](sales-dashboard-preview.png)
+![sales dashboard preview](sales-dashboard-preview.png)
