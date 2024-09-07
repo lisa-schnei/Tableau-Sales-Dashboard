@@ -24,17 +24,13 @@ SQL in BigQuery, Tableau
 
 ## Project Content
 
-**EXPLORATORY ANALYSIS & DATA CLEANING - BIGQUERY.SQL**
-  - SQL file containing the exploratory analysis and data cleaning/ preparation steps taken in BigQuery to retrieve the required data
+**EXPLORATORY ANALYSIS & DATA CLEANING - BIGQUERY.SQL** - SQL file containing the exploratory analysis and data cleaning/ preparation steps taken in BigQuery to retrieve the required data
 
-[**TABLEAU PUBLIC DASHBOARD**](https://public.tableau.com/views/SalesDashboard_17173404070990/Insights?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
-  - Final Tableau dashboard
+[**TABLEAU PUBLIC DASHBOARD**](https://public.tableau.com/views/SalesDashboard_17173404070990/Insights?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link) - Final Tableau dashboard
 
-**SALES DASHBOARD.TWBX**
-  - Tableau workbook file
+**SALES DASHBOARD.TWBX** - Tableau workbook file
 
-[**GOOGLE SHEET PROJECT OVERVIEW**](https://docs.google.com/spreadsheets/d/1wT31cIoKNED0EE3CNmqtIcpk67zeEWEKL3LoaKc5ScY/edit?usp=sharing)
-  - A project sheet containing the detailed task, project approach and planning, insights, recommendations, drawbacks and further analysis potential
+[**GOOGLE SHEET PROJECT OVERVIEW**](https://docs.google.com/spreadsheets/d/1wT31cIoKNED0EE3CNmqtIcpk67zeEWEKL3LoaKc5ScY/edit?usp=sharing) - A project sheet containing the detailed task, project approach and planning, insights, recommendations, drawbacks and further analysis potential
 
 
 ## Data & Context
