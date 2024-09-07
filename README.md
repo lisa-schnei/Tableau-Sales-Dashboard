@@ -18,6 +18,9 @@ Objective for this project was to build a dashboard in Tableau for the sales tea
 - What are the top selling products by sales volume and revenue?
 - Who are the top customers and sales person?
 
+**Tools used**
+SQL in BigQuery, Tableau
+
 
 ## Project Content
 
@@ -39,4 +42,8 @@ Objective for this project was to build a dashboard in Tableau for the sales tea
 **Data Source:** [AdventureWorks company dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
 
+## Output
 
+Tableau Dashboard
+
+! [sales dashboard preview](sales-dashboard-preview.png)
